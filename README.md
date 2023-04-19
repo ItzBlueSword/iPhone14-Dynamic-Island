@@ -1,16 +1,12 @@
 # iPhone 14 Pro Dynamic Island
-The **iPhone 14 Pro** is a dynamic island designed with **HTML** and **CSS**. It features a sleek phone design with a camera, buttons, and a screen that can be customized with four different color themes: deep purple, gold, space black, and silver. The screen is divided into two sections, each with a glowing effect. The phone also has a notch containing information about the title, text, and duration of the content being displayed. The design is completed with a pallette of the four color themes for the user to select from.
+This is a virtual representation of the iPhone 14 Pro, created with HTML and CSS. The design is inspired by the beautiful and dynamic landscapes found on remote islands.
 
 # Features
-* Dynamic color theme: The iPhone 14 Pro has a dynamic color theme that can be changed by selecting one of the four color options (Deep Purple, Gold, Space Black, and Silver) using the radio buttons in the HTML code.
-
-* Button layout: The phone has a button layout with three buttons on the left and one button on the right.
-
-* Camera: The phone has a camera at the top of the device.
-
-* Screen display: The screen display has a background with a glow effect that changes color based on the selected color theme.
-
-* Notch: The phone has a notch at the top of the screen that contains a title, text, and a progress bar.
+* Four dynamic themes to choose from: deep purple, gold, space black, and silver
+* Virtual home button and power button
+* Virtual front and rear camera
+* Virtual screen with dynamic backgrounds
+* Virtual notch with customizable content and duration bar
 
 # Screenshots
 Here are some screenshots
@@ -26,5 +22,13 @@ Here are some screenshots
 * Silver <br>
 ![Silver](screenshots/silver.jpg)
 
-## License
-[MIT LICENSE](https://choosealicense.com/licenses/mit/)
+# How to Use?
+To use the iPhone 14 Pro Dynamic Island, simply click the link on the left side. You can choose your preferred theme by clicking on the corresponding radio button. The virtual buttons and camera are not functional, but you can customize the content and duration bar of the virtual notch by editing the HTML code.
+
+# Credits
+This project was created byItzBlueSword as a personal project. The design was inspired by the beautiful landscapes of remote islands. <br>
+Tutorial By [AsmrProg](https://github.com/AsmrProg-YT) <br>
+Here is the tutorial video link: https://www.youtube.com/watch?v=W5LPcpIRLzs
+
+# License
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, modify, and distribute the code as long as you include the original copyright notice and license terms.
