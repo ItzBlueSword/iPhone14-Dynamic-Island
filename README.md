@@ -12,6 +12,19 @@ The **iPhone 14 Pro** is a dynamic island designed with **HTML** and **CSS**. It
 
 * Notch: The phone has a notch at the top of the screen that contains a title, text, and a progress bar.
 
+# Screenshots
+Here are some screenshots
+* Deep Purple <br>
+ ![Deep Purple](screenshots/deep-purple.jpg)
+
+* Gold <br>
+![Gold](screenshots/gold.jpg)
+
+* Space Black <br>
+![Space Black](screenshots/space-black.jpg)
+
+* Silver <br>
+![Silver](screenshots/silver.jpg)
 
 ## License
 [MIT LICENSE](https://choosealicense.com/licenses/mit/)
